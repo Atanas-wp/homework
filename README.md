@@ -1,3 +1,3 @@
 # homework
 
-task 3
+task 3 = zad1
