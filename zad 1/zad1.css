@@ -1,0 +1,47 @@
+
+.site-header {
+	border-bottom: 4px solid #333;
+	padding-bottom: 1rem;
+	margin-bottom: 2rem;
+}
+
+.site-header nav li {
+	display: block;
+	/*display: inline-block;*/
+	padding: 0.5rem;
+}
+
+
+.sidebar, .site-content {
+	display: inline-block;
+}
+
+.site-content {
+	/*border: 2px solid #F00;*/
+	width: 70%;
+}
+
+aside.sidebar {
+	width: 29%;
+}
+
+.site-header nav ul li {
+	display: inline-block;
+}
+
+body {padding: 5rem;}
+
+a {
+	text-decoration: none;
+}
+
+.header-navigation ul {
+
+	padding-left: 0;
+}
+
+.site-header nav a:hover{
+
+	background-color: red;
+	padding: 0.5rem;
+}
