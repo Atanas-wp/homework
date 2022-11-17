@@ -1,0 +1,48 @@
+.site-header {
+
+    border-bottom: 4px solid black;
+}
+
+.site-header a {
+
+	text-decoration: none;
+}
+
+.site-header nav li {
+
+	display: block;
+    margin-left: 100px;
+    margin-right: 50px;
+}
+
+.site-header nav ul li {
+
+	display: inline-block;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 10px;
+    border-bottom: 2px solid black;
+}
+
+.site-header nav a:hover{
+
+	background-color: red;
+	padding: 0.5rem;
+}
+
+h2, section {
+
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+nav {
+
+    margin: 0 auto;
+    text-align: center;
+    padding-right: 50px;
+}
